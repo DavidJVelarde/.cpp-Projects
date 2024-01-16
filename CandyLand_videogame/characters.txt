@@ -1,0 +1,4 @@
+sajo_Destroyer_of_Worlds|100|50|Breezy_Butterscotch,Lucky_Licorice,Fearsome_Fudge,Crimson_Crystal
+Destroyer|78|69|Breezy_Butterscotch,Lucky_Licorice,Fearsome_Fudge,Crimson_Crystal
+Velarde58|120|70|Breezy_Butterscotch,Lucky_Licorice,Fearsome_Fudge,Crimson_Crystal
+David_Goliath|101|69|Breezy_Butterscotch,Lucky_Licorice,Fearsome_Fudge,Crimson_Crystal
